@@ -5,7 +5,7 @@ package org.lapaloma.eedd.esa;
 
 import org.lapaloma.eedd.esa.dao.ICuerpoCelesteDAO;
 import org.lapaloma.eedd.esa.dao.array.CuerpoCelesteDaoArray;
-import org.lapaloma.esa.vo.CuerpoCeleste;
+import org.lapaloma.eedd.esa.vo.CuerpoCeleste;
 
 /**
  * Clase principal que permite trabajar con entidades de la Agencia ESA (Agencia Europea del Espacio).
